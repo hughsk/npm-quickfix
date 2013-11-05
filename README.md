@@ -1,5 +1,7 @@
 # npm-quickfix
 
+**No longer useful**
+
 Super quick fix for NPM registry, without having to actually mirror anything. Thanks to @framp for pointing out the workaround.
 
 ``` bash
